@@ -23,7 +23,7 @@ public class JavaApplication6 {
         
       
           mesada = mesada * entrada;
-          System.out.println("Voce tera "+mesada+" reais");
+              System.out.println(mesada);
           
 
     }
